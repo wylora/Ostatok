@@ -5,8 +5,10 @@ Psychological horror game made with Unity — test build 0.9.0.
 
 ## Скачать / Download
 
-Готовая сборка для Windows лежит в разделе **Releases** → `Ostatok-0.9.0-win64.zip`.
-The Windows build is available under **Releases** → `Ostatok-0.9.0-win64.zip`.
+- Архивом: раздел **Releases** → `Ostatok-0.9.0-win64.zip` (проще всего).
+- Файлами: папка [`Build/Ostatok`](Build/Ostatok) — запускать `Ostatok.exe`.
+
+The Windows build: **Releases** → `Ostatok-0.9.0-win64.zip`, or the [`Build/Ostatok`](Build/Ostatok) folder.
 
 ## Как запустить
 
